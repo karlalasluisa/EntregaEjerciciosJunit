@@ -23,4 +23,3 @@ Haz clic en Next y luego en Finish.
 ### 6. Verificamos el Push
 1. Vamos a nuestro repositorio de GitHub y verificamos que se haya realizado correctamente.
 
-¡Y eso es todo! Tu proyecto ahora debería estar en GitHub.
